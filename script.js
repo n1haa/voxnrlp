@@ -1,4 +1,4 @@
-// VoxNR — page interactions
+// VoxNR — page interactions & reveal observer
 
 const observer = new IntersectionObserver((entries) => {
   entries.forEach((entry) => {
